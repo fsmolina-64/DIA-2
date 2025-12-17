@@ -1,4 +1,4 @@
-# Historia del software
+# Historia del desarrollo de software
 El desarrollo de software ha evolucionado junto con las computadoras. En sus inicios, entre las décadas de **1940 y 1950**, los programas se escribían en lenguaje máquina y estaban totalmente ligados al hardware, lo que los hacía difíciles de crear y mantener.
 ## Primeros lenguajes
 En las décadas de *1950 y 1960* surgieron los primeros lenguajes de alto nivel, como **FORTRAN** y **COBOL**, que facilitaron la programación y permitieron crear software más complejo. Sin embargo, el rápido crecimiento de los proyectos provocó la llamada crisis del software en los años 60 y 70, caracterizada por retrasos, altos costos y muchos errores.
